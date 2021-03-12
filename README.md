@@ -1,6 +1,6 @@
 # lista-de-tarefas-vuetify
 
-A lista de tarefas é um web app desenvolvido a partir do frameworks de código aberto Vue.js e Vuetify material design, e é parte dos estudos em front-end do desenvolvedor @andersondcribeiro.
+Lista de tarefas é um web app desenvolvido em VueJs e Vuetify material design + IndexDB do navegador para salvar no lado do cliente os itens criados na lista. 
 
 
 ![Captura de Tela 2021-01-21 às 20 44 30](https://user-images.githubusercontent.com/4931735/105426371-c694ff00-5c29-11eb-9f27-a79cd8f29474.png)
